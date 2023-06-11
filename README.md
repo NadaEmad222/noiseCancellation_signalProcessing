@@ -1,18 +1,18 @@
 # description
-![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/paino_desc.png?raw=true)
+![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/paino.png?raw=true)
 
 ## song creation
 
 * assume that You are a PIANIST, and you want to mix and match frequencies to generate your own song.
-* Generate your own signal using 𝑁 pairs of notes chosen from the 3rd and4th piano octaves assuming that you are playing will both hands at the same time (3rd octave with the left hand/ 4th octave with right hand),
-* Each piano key/note frequency is given below,
+* Generate your own signal using 𝑁 pairs of notes chosen from the 3rd and4th piano octaves assuming that you are playing will both hands at the same time (3rd octave with the left hand/ 4th octave with right hand)
+* **Each piano key/note frequency is given below,**
 
 
 ![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/piano_freq_img1.png?raw=true)
 
 
 
-* Your final song could be generated as follows,
+* **Your final song could be generated as follows,**
 
 ![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/formula_img2.png?raw=true)
 * the total song playing time is setted to 3 seconds starting from 0 for 12 x 1024 samples.
