@@ -1,5 +1,5 @@
 # description
-![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/paino.png?raw=true)
+![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/TheSound.jpg?raw=true)
 
 ## song creation
 
