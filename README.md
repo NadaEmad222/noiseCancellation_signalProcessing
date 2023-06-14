@@ -1,4 +1,4 @@
-# sound creation & noise cancelation
+# song creation & noise cancelation
 ![alt text](https://github.com/NadaEmad222/noiseCancellation_signalProcessing/blob/main/TheSound.jpg?raw=true)
 
 ## song creation
